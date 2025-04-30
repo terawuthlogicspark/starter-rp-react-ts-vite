@@ -1,5 +1,5 @@
 import { RPConfig } from "@pdf-viewer/react";
-import { AppPdfViewer } from "./components/AppPdfViewer";
+import { AppPdfViewer } from "./components/AppPDFViewer";
 
 function App() {
   return (
